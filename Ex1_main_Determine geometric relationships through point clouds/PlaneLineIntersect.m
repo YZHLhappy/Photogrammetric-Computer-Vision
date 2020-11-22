@@ -2,7 +2,7 @@ function [ point, covMatrix ] = PlaneLineIntersect( plane, covPlane, line, covLi
 % Intersects a plane and a line.
 % plane: Homogeneous representation of a 3D plane
 % covPlane: Covariance matrix corresponding to the plane
-% line: 3D line representation via Plücker coordinates
+% line: 3D line representation via PlÃ¼cker coordinates
 % covLine: Covariance matrix corresponding to the line
 % point: 3D point representation via homogeneous coordinates
 % covMatrix: Covariance matrix corresponding to the point
