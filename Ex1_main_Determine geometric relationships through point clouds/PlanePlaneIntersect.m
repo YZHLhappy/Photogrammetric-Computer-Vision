@@ -2,7 +2,7 @@ function [ line, covMatrix ] = PlanePlaneIntersect( planeA, covA, planeB, covB )
 % Intersects two planes.
 % planeA, planeB: Homogeneous representation of 3D planes.
 % covA, covB: Covariance matrices corresponding to the planes
-% line: 3D line representation via Plücker coordinates.
+% line: 3D line representation via PlÃ¼cker coordinates.
 % covMatrix: Covariance matrix corresponding to the line
 
 %--------------------------------------------
